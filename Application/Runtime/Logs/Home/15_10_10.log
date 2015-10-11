@@ -1,0 +1,48 @@
+[ 2015-10-10T21:45:10+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/%3C%7BD:/File/Tome/Plugin/Ueditor%7D%3E/ueditor.config.js
+ERR: 非法操作:
+
+[ 2015-10-10T21:45:10+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/%3C%7BD:/File/Tome/Plugin/Ueditor%7D%3E/ueditor.all.min.js
+ERR: 非法操作:
+
+[ 2015-10-10T21:45:10+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/%3C%7BD:/File/Tome/Plugin/Ueditor%7D%3E/lang/zh-cn/zh-cn.js
+ERR: 非法操作:
+
+[ 2015-10-10T21:45:12+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/%3C%7BD:/File/Tome/Plugin/Ueditor%7D%3E/lang/zh-cn/zh-cn.js
+ERR: 非法操作:
+
+[ 2015-10-10T21:45:12+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/%3C%7BD:/File/Tome/Plugin/Ueditor%7D%3E/ueditor.all.min.js
+ERR: 非法操作:
+
+[ 2015-10-10T21:45:12+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/%3C%7BD:/File/Tome/Plugin/Ueditor%7D%3E/ueditor.config.js
+ERR: 非法操作:
+
+[ 2015-10-10T21:47:17+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在/Tome/Plugin/Ueditor/editor_show.html
+
+[ 2015-10-10T21:47:18+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在/Tome/Plugin/Ueditor/editor_show.html
+
+[ 2015-10-10T21:47:18+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在/Tome/Plugin/Ueditor/editor_show.html
+
+[ 2015-10-10T21:48:20+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在/Tome/Plugin/Ueditor/editor_show.html
+
+[ 2015-10-10T21:48:22+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在/Tome/Plugin/Ueditor/editor_show.html
+
+[ 2015-10-10T21:49:44+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在/Tome/Plugin/Ueditor/editor_show.html
+
+[ 2015-10-10T21:53:02+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在<script type="text/javascript" charset="utf-8" src="D:/File/Tome/Plugin/Ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="D:/File/Tome/Plugin/Ueditor/ueditor.all.min.js"> </script>
+<script type="text/javascript" charset="utf-8" src="D:/File/Tome/Plugin/Ueditor/lang/zh-cn/zh-cn.js"></script>
+<script id="editor" type="text/plain"  ></script>
+
+[ 2015-10-10T21:53:17+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在<script type="text/javascript" charset="utf-8" src="/Tome/Plugin/Ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="/Tome/Plugin/Ueditor/ueditor.all.min.js"> </script>
+<script type="text/javascript" charset="utf-8" src="/Tome/Plugin/Ueditor/lang/zh-cn/zh-cn.js"></script>
+<script id="editor" type="text/plain"  ></script>
+

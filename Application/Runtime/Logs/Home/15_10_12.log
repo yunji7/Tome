@@ -1,0 +1,36 @@
+[ 2015-10-12T00:06:28+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在
+
+[ 2015-10-12T00:07:29+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Bucket不允许为空
+
+[ 2015-10-12T00:07:45+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Bucket不允许为空
+
+[ 2015-10-12T00:08:28+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Bucket不允许为空
+
+[ 2015-10-12T00:09:32+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Bucket不允许为空
+
+[ 2015-10-12T00:09:34+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Bucket不允许为空
+
+[ 2015-10-12T00:09:59+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Bucket不允许为空
+
+[ 2015-10-12T00:12:54+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Bucket不允许为空
+
+[ 2015-10-12T01:54:49+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在
+
+[ 2015-10-12T01:54:49+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/Pu...')%3Cbr%20/%3E
+ERR: 非法操作:Pu...')
+
+[ 2015-10-12T01:54:56+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在
+
+[ 2015-10-12T01:54:56+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/Pu...')%3Cbr%20/%3E
+ERR: 非法操作:Pu...')
+

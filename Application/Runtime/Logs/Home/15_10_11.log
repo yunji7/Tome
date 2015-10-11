@@ -1,0 +1,107 @@
+[ 2015-10-11T13:07:03+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'ali' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`,`ali`) VALUES ('<p>234<img src=\"/Tome/Public/ueditor/upload/image/20151011/1444539438952895.jpg\" title=\"1444539438952895.jpg\" alt=\"vision.jpg\"/>1231233112323123</p>',NULL)
+
+[ 2015-10-11T13:07:03+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T13:09:45+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'ali' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`,`ali`) VALUES ('<p>234<img src=\"/Tome/Public/ueditor/upload/image/20151011/1444539438952895.jpg\" title=\"1444539438952895.jpg\" alt=\"vision.jpg\"/>1231233112323123</p>',NULL)
+
+[ 2015-10-11T13:09:45+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T13:12:02+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'ali' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`,`ali`) VALUES ('<p>234<img src=\"/Tome/Public/ueditor/upload/image/20151011/1444539438952895.jpg\" title=\"1444539438952895.jpg\" alt=\"vision.jpg\"/>1231233123123</p>',NULL)
+
+[ 2015-10-11T13:12:02+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T13:12:14+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'ali' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`,`ali`) VALUES ('<p>234<img src=\"/Tome/Public/ueditor/upload/image/20151011/1444539438952895.jpg\" title=\"1444539438952895.jpg\" alt=\"vision.jpg\"/>1231233123123</p>',NULL)
+
+[ 2015-10-11T13:12:14+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T13:13:27+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'ali' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`,`ali`) VALUES ('<p>234<img src=\"/Tome/Public/ueditor/upload/image/20151011/1444539438952895.jpg\" title=\"1444539438952895.jpg\" alt=\"vision.jpg\"/>123123313231233</p>',NULL)
+
+[ 2015-10-11T13:13:27+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T13:13:30+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'ali' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`,`ali`) VALUES ('<p>234<img src=\"/Tome/Public/ueditor/upload/image/20151011/1444539438952895.jpg\" title=\"1444539438952895.jpg\" alt=\"vision.jpg\"/>123123313231233</p>',NULL)
+
+[ 2015-10-11T13:13:30+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T13:14:23+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'text' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`) VALUES (NULL)
+
+[ 2015-10-11T13:14:23+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T13:14:26+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 1048:Column 'text' cannot be null
+ [ SQL语句 ] : INSERT INTO `x_longtext` (`text`) VALUES (NULL)
+
+[ 2015-10-11T13:14:26+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/...')%3Cbr
+ERR: 非法操作:...')
+
+[ 2015-10-11T17:30:29+08:00 ] 127.0.0.1 /Tome/
+ERR: 模板不存在:/Tome/template/Home/Index/index.html
+
+[ 2015-10-11T17:30:30+08:00 ] 127.0.0.1 /Tome/
+ERR: 模板不存在:/Tome/template/Home/Index/index.html
+
+[ 2015-10-11T17:30:30+08:00 ] 127.0.0.1 /Tome/
+ERR: 模板不存在:/Tome/template/Home/Index/index.html
+
+[ 2015-10-11T17:30:30+08:00 ] 127.0.0.1 /Tome/
+ERR: 模板不存在:/Tome/template/Home/Index/index.html
+
+[ 2015-10-11T17:30:30+08:00 ] 127.0.0.1 /Tome/
+ERR: 模板不存在:/Tome/template/Home/Index/index.html
+
+[ 2015-10-11T17:30:31+08:00 ] 127.0.0.1 /Tome/
+ERR: 模板不存在:/Tome/template/Home/Index/index.html
+
+[ 2015-10-11T17:30:31+08:00 ] 127.0.0.1 /Tome/
+ERR: 模板不存在:/Tome/template/Home/Index/index.html
+
+[ 2015-10-11T17:53:46+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: /Tome/Public/ueditor/upload/image/20151011/1444556111100905.jpg文件不存在
+
+[ 2015-10-11T21:21:12+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Object不允许为空
+
+[ 2015-10-11T21:21:39+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Object不允许为空
+
+[ 2015-10-11T21:23:17+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Object不允许为空
+
+[ 2015-10-11T21:23:46+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Object不允许为空
+
+[ 2015-10-11T21:23:51+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: Object不允许为空
+
+[ 2015-10-11T22:45:08+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在
+
+[ 2015-10-11T22:45:33+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在
+
+[ 2015-10-11T22:45:36+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在
+
+[ 2015-10-11T22:46:37+08:00 ] 127.0.0.1 /Tome/index.php/Home/Index/index
+ERR: 文件不存在
+
